@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1479211459 source:c:\users\mihneavisoiu\desktop\inventie\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
